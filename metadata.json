@@ -1,0 +1,8 @@
+{
+  "name": "HousingEggs",
+  "creator": "Al3xWarrior",
+  "description": "Run actions when a user finishes an Egg Hunt!",
+  "version": "1.0.0",
+  "entry": "index.js",
+  "requires": ["Vigilance"]
+}
